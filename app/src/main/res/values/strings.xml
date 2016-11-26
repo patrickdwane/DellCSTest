@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dell CS+ Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_notebook">Notebook</string>
+    <string name="title_activity_desktop">Desktop</string>
+    <string name="title_activity_desktop_detail">DesktopDetail</string>
+</resources>
